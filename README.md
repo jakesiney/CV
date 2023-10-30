@@ -41,34 +41,28 @@ At Seven Worldwide (now SGK) I managed a team of production experts producing ad
 
 ## Skills
 
-In my role at M&C Saatchi, I led the creation and global deployment of digital assets for international ad campaigns. I developed streamlined workflows and collaborated closely with designers and copywriters, ensuring seamless project execution. Building client-facing web portals and managing IT infrastructure honed my technical expertise. Similarly, at Seven Worldwide, I managed production teams, fostering efficient workflows and collaborating with clients. My experience in managing complex projects and diverse teams, coupled with technical proficiency, equips me well for a software development role.
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+In my previous production roles I led the creation and global deployment of digital assets for international ad campaigns, deploying them online and to outdoor sites around the globe. I developed production workflows to automate functions and built client-facing web portals and asset libraries, managed IT infrastructure honed my technical expertise. I collaborated closely with designers and copywriters, ensuring seamless project execution.  I managed a small production team, fostering efficient workflows and collaborating with clients. My experience in managing complex projects and diverse teams, coupled with technical proficiency, equips me well for a software development role.
 
 #### Another skill
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
+- Project management
+- Team collaboration with producers, designers and copywriters.
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Another skill
-
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+#### Makers Academy (July 2023 to October 2023)
+During my time at Makers Academy, I participated in a rigorous full-time software development program that provided me with a comprehensive understanding of software development and testing, cloud infrastructure with AWS and DevOps practices. This immersive experience instilled in me the importance of collaboration, adaptability, and problem-solving within a fast-paced and agile team environment.
+
+- Test driven development using Python and Flask.
+- Database integration with SQL & PostgreSQL.
 - you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Amazon Web Services.
+- Containerisation with Docker.
+- IaC with Terraform and Cloud formation.
+- Networking and REST APIs.
+- Application reliability and security.
 
 #### Your University / College (start_date to end_date)
 
