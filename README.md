@@ -7,28 +7,41 @@ My passion for staying at the forefront of technology fuels my enthusiasm for co
 
 ## Projects
 
-| Name           | Description       | Tech/tools                               |
-| ---------------| ----------------- | ------------------------- ---------------|
-| Metapod        | A full stack deployed using Terraform, GitHub Actions        |
-| Makers bnb     | Airbnb Clone      | Python, Flask, PostgreSQL                |
+| Name                         | Description       | Tech/tools         |
+| ---------------------------- | ----------------- | -----------------  |
+| [Metapod full stack app](https://github.com/jakesiney/metapod-deployment-AWS-EKS-Kubernetes)       | CI/CD Deployment  | Terraform, AWS     |
+| [Task App](https://github.com/jakesiney/task-listing-app-aws-terraform)       | CI/CD Deployment  | Terraform, AWS     |
+| [Makers Bnb](https://github.com/jakesiney/makers-bnb)                   | Airbnb clone      | Python, Flask, SQL |
+| [Music tracker](https://github.com/jakesiney/music_library_app)                | Backend project   | Python, Flask, SQL |
 
-## Work Experience
+## Work Experience 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**M&C Saatchi** (February 2008 to December 2022)  
+Head of Reprographics
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+At M&C Saatchi I managed the creation and deployment of digital display, social and outdoor advertising assets using automated workflows to deliver assets across the globe direct to live screens and media stakeholders. I worked closely with designers and copywriters, taking briefs to deliver large international ad campaigns in a fast paced deadline driven production environment.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Managed end-to-end creation and global deployment of digital display, social, and outdoor advertising assets at M&C Saatchi.
+- Developed automated workflows to streamline asset delivery on a global scale.
+- Collaborated closely with designers, and copywriters to ensure seamless execution of projects.
+- Built client facing web portals and image libraries.
+- Multi channel campaign deployment.
+- IT infrastructure.
+- On premises and cloud based server maintenance and data management.
 
-- Any experience relevent to software development
+
+**Seven Worldwide London** (January 2000 to February 2008)  
+Production Team Leader
+
+At Seven Worldwide (now SGK) I managed a team of production experts producing advertising material for a number of high profile advertising agencies. I worked directly with account managers and agency clients to produce and deploy international campaigns.
+
+- Led a team of production experts in creating advertising material for renowned advertising agencies.
+- Collaborated with account managers and agency clients to successfully execute international campaigns.
+- Implemented efficient production workflows and digital asset portals to streamline processes.
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+In my role at M&C Saatchi, I led the creation and global deployment of digital assets for international ad campaigns. I developed streamlined workflows and collaborated closely with designers and copywriters, ensuring seamless project execution. Building client-facing web portals and managing IT infrastructure honed my technical expertise. Similarly, at Seven Worldwide, I managed production teams, fostering efficient workflows and collaborating with clients. My experience in managing complex projects and diverse teams, coupled with technical proficiency, equips me well for a software development role.
 
 
 Here's an example
