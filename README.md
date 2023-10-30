@@ -1,13 +1,16 @@
-## Your Name
+## Jake Siney
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a driven developer with a background in advertising production, I bring
+a creative edge and meticulous attention to detail to my work. My experience of working in a deadline driven agile environment directly with creative teams, clients and product managers, together with my experience in campaign deployment, has allowed me to transition into the world of software and cloud engineering.
+
+My passion for staying at the forefront of technology fuels my enthusiasm for continuous learning. This drive not only allows me to expand my knowledge and skills but also empowers me to embrace new challenges and seize opportunities in the ever-evolving tech landscape.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name           | Description       | Tech/tools                               |
+| ---------------| ----------------- | ------------------------- ---------------|
+| Metapod        | A full stack deployed using Terraform, GitHub Actions        |
+| Makers bnb     | Airbnb Clone      | Python, Flask, PostgreSQL                |
 
 ## Work Experience
 
