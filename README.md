@@ -47,7 +47,8 @@ At Seven Worldwide (now SGK) I managed a team of production experts producing ad
 
 In my previous production roles, I excelled in collaborative efforts with designers and clients. Managing a small production team, I prioritised relationship building and mentorship, creating an environment conducive to teamwork.  I find satisfaction in supporting team members, offering assistance, and sharing knowledge and experiences. In high-pressure situations, such as time-constrained projects, I recognise the importance of empathy in fostering effective collaboration with colleagues.
 
-#### Problem Solving
+### Problem Solving
+
 
 
 
