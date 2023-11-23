@@ -43,14 +43,13 @@ At Seven Worldwide (now SGK) I managed a team of production experts producing ad
 
 ## Skills
 
-In my previous production roles I led the creation and global deployment of digital assets for international ad campaigns, deploying them online and to outdoor sites around the globe. I developed production workflows to automate functions and built client-facing web portals and asset libraries, managed IT infrastructure honed my technical expertise. I collaborated closely with designers and copywriters, ensuring seamless project execution.  I managed a small production team, fostering efficient workflows and collaborating with clients. My experience in managing complex projects and diverse teams, coupled with technical proficiency, equips me well for a software development role.
+### Teamwork and Collaboration
 
-#### Another skill
+In my previous production roles, I excelled in collaborative efforts with designers and clients. Managing a small production team, I prioritised relationship building and mentorship, creating an environment conducive to teamwork.  I find satisfaction in supporting team members, offering assistance, and sharing knowledge and experiences. In high-pressure situations, such as time-constrained projects, I recognise the importance of empathy in fostering effective collaboration with colleagues.
 
-- Project management
-- Team collaboration with producers, designers and copywriters.
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Problem Solving
+
+
 
 ## Education
 
