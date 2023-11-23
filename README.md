@@ -29,7 +29,7 @@ At M&C Saatchi I managed the creation and deployment of digital display, social 
 - Built client facing web portals and image libraries.
 - Multi channel campaign deployment.
 - IT infrastructure.
-- On premises and cloud based server maintenance and data management.
+- On premises and cloud based server maintenance and data management.  
 
 
 **Seven Worldwide London** (January 2000 to February 2008)  
