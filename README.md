@@ -1,9 +1,7 @@
-## Jake Siney
+## CV - Jake Siney
 
-I am a driven developer with a background in advertising production, I bring
-a creative edge and meticulous attention to detail to my work. My experience of working in a deadline driven agile environment directly with creative teams, clients and product managers, together with my experience in campaign deployment, has allowed me to transition into the world of software and cloud engineering.
+I am a committed engineer with a background in advertising production, integrating creativity and a keen eye for detail into my projects. Drawing from my experience working in a fast-paced, deadline-driven production environment I have seamlessly translated these skills to the realms of software engineering.
 
-My passion for staying at the forefront of technology fuels my enthusiasm for continuous learning. This drive not only allows me to expand my knowledge and skills but also empowers me to embrace new challenges and seize opportunities in the ever-evolving tech landscape.
 
 ## Projects
 
@@ -13,9 +11,9 @@ My passion for staying at the forefront of technology fuels my enthusiasm for co
 | [**Makers Bnb**](https://github.com/jakesiney/makers-bnb) |  A full stack Airbnb clone made in a few days | Python, Flask, SQL | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakesiney/makers-bnb)
 | [**NASA APOD**](https://github.com/jakesiney/NASA_Picture_of_the_Day-AWS) | A website built around the NASA APOD API. | Python, HTML, Terraform, Docker, GitHub Actions | [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://apod.jakesiney.com/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakesiney/NASA_Picture_of_the_Day-AWS)|
 | [**Tetris**](https://github.com/jakesiney/Tetris) |  A bit of fun, I love Tetris! | Javascript, HTML, Docker | [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://tetris.jakesiney.com/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakesiney/Tetris)|
-| [**Metapod**](https://github.com/jakesiney/metapod-deployment-AWS-EKS-Kubernetes) | AWS CI/CD project using Kubernetes and EKS | Node, Terraform, AWS, GitHub Actions, Docker, Kubernetes |
-| [**Task App**](https://github.com/jakesiney/task-listing-app-aws-terraform) | CI/CD Deployment  | Terraform, AWS |
-| [**Music tracker**](https://github.com/jakesiney/music_library_app) | Backend project | Python, Flask, SQL |
+| [**Metapod**](https://github.com/jakesiney/metapod-deployment-AWS-EKS-Kubernetes) | AWS CI/CD project using Kubernetes and EKS | Node, Terraform, AWS, GitHub Actions, Docker, Kubernetes | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakesiney/metapod-deployment-AWS-EKS-Kubernetes)
+| [**Task App**](https://github.com/jakesiney/task-listing-app-aws-terraform) | CI/CD Deployment  | Terraform, AWS, GitHub Actions | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakesiney/task-listing-app-aws-terraform)
+| [**Music tracker**](https://github.com/jakesiney/music_library_app) | A Backend project to develop PostgreSQL skills | Python, Flask, SQL | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakesiney/music_library_app)
 
 ## Work Experience 
 
@@ -25,6 +23,7 @@ Head of Reprographics
 At M&C Saatchi I managed the creation and deployment of digital display, social and outdoor advertising assets using automated workflows to deliver assets across the globe direct to live screens and media stakeholders. I worked closely with designers and copywriters, taking briefs to deliver large international ad campaigns in a fast paced deadline driven production environment.
 
 - Managed end-to-end creation and global deployment of digital display, social, and outdoor advertising assets at M&C Saatchi.
+- Designed and created artwork.
 - Developed automated workflows to streamline asset delivery on a global scale.
 - Collaborated closely with designers, and copywriters to ensure seamless execution of projects.
 - Built client facing web portals and image libraries.
@@ -40,6 +39,7 @@ At Seven Worldwide (now SGK) I managed a team of production experts producing ad
 
 - Led a team of production experts in creating advertising material for renowned advertising agencies.
 - Collaborated with account managers and agency clients to successfully execute international campaigns.
+- Designed and created artwork.
 - Implemented efficient production workflows and digital asset portals to streamline processes.
 
 ## Skills
@@ -67,16 +67,14 @@ During my time at Makers Academy, I participated in a rigorous full-time softwar
 - Networking and REST APIs.
 - Application reliability and security.
 
-#### Your University / College (start_date to end_date)
+#### London College of Print and Graphic Design
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BTEC Diploma in Graphic Design
 
-#### Any other qualifications
+#### Barnet College, London
 
-That in some arguable way make you a better software developer or well-rounded person
+- Art Foundation
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Outdoors, Cycling, Food and Coffee.
