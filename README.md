@@ -1,4 +1,4 @@
-## CV - Jake Siney
+## Jake Siney
 
 I am a committed engineer with a background in advertising production, integrating creativity and a keen eye for detail into my projects. Drawing from my experience working in a fast-paced, deadline-driven production environment I have seamlessly translated these skills to the realms of software engineering.
 
