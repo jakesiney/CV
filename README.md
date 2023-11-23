@@ -7,12 +7,15 @@ My passion for staying at the forefront of technology fuels my enthusiasm for co
 
 ## Projects
 
-| Name                         | Description       | Tech/tools         |
-| ---------------------------- | ----------------- | -----------------  |
-| [Metapod full stack app](https://github.com/jakesiney/metapod-deployment-AWS-EKS-Kubernetes)       | CI/CD Deployment  | Terraform, AWS     |
-| [Task App](https://github.com/jakesiney/task-listing-app-aws-terraform)       | CI/CD Deployment  | Terraform, AWS     |
-| [Makers Bnb](https://github.com/jakesiney/makers-bnb)                   | Airbnb clone      | Python, Flask, SQL |
-| [Music tracker](https://github.com/jakesiney/music_library_app)                | Backend project   | Python, Flask, SQL |
+| Name | Description | Tech/tools | Links |
+| -----| ----------- | ---------- | ----- |
+| [**HOSP Reliability**](https://github.com/jakesiney/Cloud-Reliability-Project) | Enhance the reliability of an existing application, HOSP, while implementing new features. | Python, AWS (EC2, S3, Cloudfront, Lambda, Cloudwatch), NGINX, REST API's | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakesiney/Cloud-Reliability-Project)
+| [**Makers Bnb**](https://github.com/jakesiney/makers-bnb) |  A full stack Airbnb clone made in a few days | Python, Flask, SQL | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakesiney/makers-bnb)
+| [**NASA APOD**](https://github.com/jakesiney/NASA_Picture_of_the_Day-AWS) | A website built around the NASA APOD API. | Python, HTML, Terraform, Docker, GitHub Actions | [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://apod.jakesiney.com/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakesiney/NASA_Picture_of_the_Day-AWS)|
+| [**Tetris**](https://github.com/jakesiney/Tetris) |  A bit of fun, I love Tetris! | Javascript, HTML, Docker | [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://tetris.jakesiney.com/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakesiney/Tetris)|
+| [**Metapod**](https://github.com/jakesiney/metapod-deployment-AWS-EKS-Kubernetes) | AWS CI/CD project using Kubernetes and EKS | Node, Terraform, AWS, GitHub Actions, Docker, Kubernetes |
+| [**Task App**](https://github.com/jakesiney/task-listing-app-aws-terraform) | CI/CD Deployment  | Terraform, AWS |
+| [**Music tracker**](https://github.com/jakesiney/music_library_app) | Backend project | Python, Flask, SQL |
 
 ## Work Experience 
 
