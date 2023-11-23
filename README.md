@@ -1,6 +1,6 @@
 ## Jake Siney
 
-I am a committed engineer with a background in advertising production, integrating creativity and a keen eye for detail into my projects. Drawing from my experience working in a fast-paced, deadline-driven production environment I have seamlessly translated these skills to the realms of software engineering.
+I am a committed engineer with a background in advertising production, blending creativity with an exceptional eye for detail in my projects. Having thrived in the fast-paced, deadline-driven environment of advertising production, and driven by a constant need for learning and growth, I sought a new challenge and successfully translated these skills into the realm of software engineering.
 
 
 ## Projects
@@ -86,4 +86,7 @@ During my time at Makers Academy, I participated in a rigorous full-time softwar
 
 ## Hobbies
 
-Outdoors, Cycling, Food and Coffee.
+Outdoors
+Cycling
+Food
+Coffee
