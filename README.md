@@ -49,7 +49,11 @@ In my previous production roles, I excelled in collaborative efforts with design
 
 ### Problem Solving
 
+I thrive on problem-solving challenges, a skill I honed during my tenure at M&C Saatchi. As the head of the department, I confronted daily technical issues, where I assumed the responsibility of ensuring swift and successful resolutions. Over the years, I have developed an affinity for the pressure associated with resolving issues promptly and effectively, particularly when faced with critical deadlines. Debugging is something I thoroughly enjoy!
 
+### Continous Learning
+
+My passion for staying at the forefront of technology fuels my enthusiasm for continuous learning. This drive not only allows me to expand my knowledge and skills but also empowers me to embrace new challenges. I pride myself on being a quick learner, enabling me to efficiently adapt to new technologies and concepts.  
 
 
 ## Education
