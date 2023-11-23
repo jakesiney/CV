@@ -59,16 +59,20 @@ My passion for staying at the forefront of technology fuels my enthusiasm for co
 ## Education
 
 #### Makers Academy (July 2023 to October 2023)
-During my time at Makers Academy, I participated in a rigorous full-time software development program that provided me with a comprehensive understanding of software development and testing, cloud infrastructure with AWS and DevOps practices. This immersive experience instilled in me the importance of collaboration, adaptability, and problem-solving within a fast-paced and agile team environment.
+During my time at Makers Academy, I participated in a rigorous full-time software development program that provided me with a comprehensive understanding of software development and testing, cloud infrastructure with AWS and DevOps practices. This immersive experience instilled in me the importance of collaboration, adaptability, and problem-solving within an agile team environment.
 
+- Object Oriented Programming.
+- Team based projects.
 - Test driven development using Python and Flask.
 - Database integration with SQL & PostgreSQL.
-- you might also mention aspects some other skills/knowledge listed below: 
 - Amazon Web Services.
 - Containerisation with Docker.
 - IaC with Terraform and Cloud formation.
 - Networking and REST APIs.
 - Application reliability and security.
+- Pair programming.
+- EQ Sessions.
+
 
 #### London College of Print and Graphic Design
 
