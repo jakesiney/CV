@@ -31,7 +31,7 @@ At M&C Saatchi I managed the creation and deployment of digital display, social 
 - IT infrastructure.
 - On premises and cloud based server maintenance and data management.
 
-<br>
+</br>
 **Seven Worldwide London** (January 2000 to February 2008)  
 Production Team Leader
 
