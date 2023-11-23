@@ -18,7 +18,7 @@ I am a committed engineer with a background in advertising production, integrati
 ## Work Experience 
 
 **M&C Saatchi** (February 2008 to December 2022)  
-Head of Reprographics
+_Head of Reprographics_
 
 At M&C Saatchi I managed the creation and deployment of digital display, social and outdoor advertising assets using automated workflows to deliver assets across the globe direct to live screens and media stakeholders. I worked closely with designers and copywriters, taking briefs to deliver large international ad campaigns in a fast paced deadline driven production environment.
 
@@ -29,11 +29,11 @@ At M&C Saatchi I managed the creation and deployment of digital display, social 
 - Built client facing web portals and image libraries.
 - Multi channel campaign deployment.
 - IT infrastructure.
-- On premises and cloud based server maintenance and data management.  
+- On premises and cloud based server maintenance and data management.
 
 
 **Seven Worldwide London** (January 2000 to February 2008)  
-Production Team Leader
+_Production Team Leader_
 
 At Seven Worldwide (now SGK) I managed a team of production experts producing advertising material for a number of high profile advertising agencies. I worked directly with account managers and agency clients to produce and deploy international campaigns.
 
